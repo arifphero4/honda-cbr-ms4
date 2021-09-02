@@ -1,0 +1,52 @@
+.honda-bg-color {
+    background-color: #264653;
+    color: #FFFFFF;
+    ;
+
+}
+.btn-color{
+   
+width: 168px;
+height: 44px;
+left: 156px;
+top: 413px;
+
+background: #E76F51;
+border-radius: 5px;
+
+}
+.image-width{
+    width: 288px;
+    height: 243px;
+    left: 582px;
+    top: 975px;
+    filter: grayscale(1);
+}
+
+#filter{
+    width: 288px;
+    height: 243px;
+    left: 582px;
+    top: 975px;
+}
+.heading-color{
+    color:  #E76F51;
+}
+.fa-star {
+    font-size: 1.25rem;
+  }
+  .fa-star.filled {
+   color:#ff9914 ; 
+  }
+  .fa-star.empty {
+   color:#ff9914 ; 
+  }
+  .faq-img{
+    width: 431.2px;
+    height: 423.5px;
+    left: 157px;
+    top: 3173px;
+  }
+  .link{
+      text-decoration: none;
+  }
